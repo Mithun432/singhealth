@@ -6,7 +6,7 @@ on:
       - main
  
 jobs:
-  automated-jmeter-tests:
+  automated-jmeter-tests: 
     runs-on: windows-latest
  
     steps:
